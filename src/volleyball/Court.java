@@ -18,7 +18,6 @@ public class Court {
 	public Pane pane = new Pane();
 	public Group g[] = new Group[6];
 	public Label p[] = new Label[6];
-	public Label pn[] = new Label[6];
 	
 	public Court(Pane methodPane, Player player, double px, double py) {
 		
